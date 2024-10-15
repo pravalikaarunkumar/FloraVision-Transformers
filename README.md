@@ -116,3 +116,5 @@ The Swin Transformer uses a **hierarchical design** with **shifted windows** to 
 ## Conclusion
 Both models demonstrate strong performance on the flower classification task, but the **Swin Transformer** proves to be more effective due to its efficient **hierarchical feature extraction**, **window-based attention**, and **patch merging** techniques. These improvements allow Swin to generalize better to complex image classification tasks, making it more suitable for real-world applications involving high-resolution or intricate patterns.
 
+## Contributors:  
+[Pravalika Arunkumar](https://github.com/pravalikaarunkumar)
